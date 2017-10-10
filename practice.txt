@@ -1,0 +1,2 @@
+for disconnected graphs,the traversal of allthe disconnected componenets produces trees and the collection of these trees is known
+as forest.
